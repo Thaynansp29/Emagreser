@@ -123,45 +123,41 @@ left: 23%;bottom: 25%;
 .section3{
     background-color: RGB(82, 0, 147);
 }
+.section3-container{
+    
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    text-align: justify;
+    font-size: 100px;
+    
+}
 .section3-center-text{
     color: white;
     padding-top: 1% ;
+    margin-bottom: 1.5%;
     text-align: center;
     font-size: 30px;
     font-weight: 600;
     text-shadow: 2px 2px 5px black;
 }
-.section3-first-container{
-    padding-top: 4%;
-    display: inline-block;
-    margin-top: 3.5%;
-    background-color: white;
-    max-width: 17.1%;
-    margin-left: 4%;
-    text-align: center;
-    border-radius: 17px;
-    color: RGB(82, 0, 147);
+.rect{
+    width: 17.5%;
+    height: 100%;
 }
 
-.section3-first-text1{
-    font-family:  sans-serif;
-    font-size: 17px;
-    margin-top: 9%;
-}
+
 .section3-first-text2{
-    font-family:  sans-serif;
+    font-family:  Arial, Helvetica, sans-serif;
     font-size: 16px;
-    margin-top: 10%;
-    margin-bottom: 35%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 10% 5% 35% 5%;
 }
 
 .section3-second-container{
-    display: inline-block;
     background-color: white;
-    max-width: 17.1%;
-    margin-left: 1%;
+    margin-right: 1%;
     text-align: center;
     border-radius: 17px;
     color: RGB(82, 0, 147);
@@ -169,27 +165,17 @@ left: 23%;bottom: 25%;
 .second-button{
     margin-top: 2%;
     margin-left: 41%;
+    margin-bottom: 2%;
     background-color: #f3a831;
     text-decoration: none;
     color: white;
     border-style: solid;
-    padding: 8px;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding:1% 2.8% 1% 2.8%;
     border-color: #f3a831;
     border-radius: 40px;
     text-shadow:4px 4px 6px black;
 }
-.section3-last-container{
-    padding-top: 2%;
-    display: inline-block;
-    background-color: white;
-    max-width: 17.1%;
-    margin-left: 1%;
-    text-align: center;
-    border-radius: 17px;
-    color: RGB(82, 0, 147);
-}
+
 .section4-container{
     display: inline-block;
     position: relative;
