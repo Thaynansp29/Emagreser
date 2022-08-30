@@ -14,12 +14,12 @@
 
 <h1 align="center">
 
-<img alt="Resumo" title="Resumo" src="./assets/resumo.gif"
-
   <img alt="Resumo" title="Resumo" src="./assets/Resumo.gif" width="470" />
 
 </h1>
 
 ### Features
 
-- [x] Efeito nos botões <h1 align="center"> <img alt="botoes" title="botoes" src="./assets/botoes.gif"></h1>
+- [x] Efeito nos botões <h1 align="center"> <img alt="botoes" title="botoes" src="./assets/botoes.gif"></h1>- 
+- [x] Calculadora de IMC <h1 align="center"> <img alt="calculadora" title="calculadora" src="./assets/calculadoras.gif" height="250"></h1>
+- [x] 
