@@ -15,3 +15,9 @@
 
 <h1 align="center">
   <img alt="Resumo" title="Resumo" src="./assets/resumo.gif" width="470" />
+</h1>
+
+### Features
+
+- [x] Efeito nos botões <h1 align="center"> <img alt="botoes" title="botoes" src="./assets/botoes.gif"></h1>
+- [x] Calculadora de IMC <hi align="center"> <img alt="calculador" title="calculadora" scr="./assets/calculadora.gif"></h1>
