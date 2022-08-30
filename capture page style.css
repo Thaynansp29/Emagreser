@@ -21,7 +21,7 @@ header{
 .section1{
     height: 750px;
     padding:20px ;
-    background-image: url(./Imagens/banner1.png);
+    background-image: url(./assets/banner1.png);
     background-size: cover;
     overflow: hidden;
     position: sticky;
