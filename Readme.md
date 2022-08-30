@@ -17,3 +17,5 @@
   <img alt="Resumo" title="Resumo" src="./assets/Resumo.gif" width="470" />
  
  </h1>
+### Features
+- [x] 
