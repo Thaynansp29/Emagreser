@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-<<<<<<< HEAD
+
   <img alt="Resumo" title="Resumo" src="./assets/resumo.gif" width="470" />
 </h1>
 
@@ -21,8 +21,6 @@
 
 - [x] Efeito nos botões <h1 align="center"> <img alt="botoes" title="botoes" src="./assets/botoes.gif"></h1>
 - [x] Calculadora de IMC <hi align="center"> <img alt="calculador" title="calculadora" scr="./assets/calculadora.gif"></h1>
-=======
-  <img alt="Resumo" title="Resumo" src="./assets/Resumo.gif" width="470" />
+
  
- </h1>
->>>>>>> 8b114d989e6973bd969dea2f949f5b5743a4c6ae
+
