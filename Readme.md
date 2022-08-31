@@ -30,7 +30,7 @@
  - [Html](https://www.w3schools.com/html/default.asp)
  - [Css](https://www.w3schools.com/css/default.asp)
  - [JavaScript](https://www.w3schools.com/js)
- 
+ - [Hover.css](https://ianlunn.github.io/Hover/)
  ### Autor
  
  
