@@ -1,5 +1,5 @@
 <p align="center"> <img width="470" src="./assets/tittle.png" alt="titulo"> </p>
-<p align="center"> Esse projeto foi a pedido de um cliente para poder fazer uma capture page, para poder captar dados de clientes <b>(ainda em contrução 🚧🚧)</b></p>
+<p align="center"> Esse projeto foi a pedido de um cliente para poder fazer uma capture page, para poder captar dados de clientes <b>(ainda em contrução 🚧🚧)**não finalizado a pedido do cliente</b></p>
 
 <p align="center">
  <a href="#features">Features</a> •
